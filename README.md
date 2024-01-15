@@ -61,7 +61,7 @@ Users should be able to:
 
 in the box model. 
 
-I should also practice more on functions like : clamp() ,calc() to improve using them .
+I should also practice more on functions like clamp() and calc() to improve  myself in using them.
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
